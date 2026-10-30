@@ -1,0 +1,6 @@
+{
+  "name": "KaamSathi AI",
+  "description": "Multilingual AI factory worker companion and HR Confusion Meter dashboard. Real-time factory policy Q&A in native languages with confusion analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
